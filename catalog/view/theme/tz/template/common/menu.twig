@@ -1,0 +1,21 @@
+{% if categories %}
+<ul class="sidebar__list">
+
+    {% for category in categories %}
+
+        {% if category.children %}
+        <ul class="sidebar__list sidebar__list_type_right">
+        <li class="sidebar__item"><a href="{{ category.href }}">{{  category.name }}</a></li>
+        </ul>
+        {% for child in category.children %}
+            <li class="sidebar__item"><a href="{{ child.href }}">{{  child.name }}</a></li>
+            {% endfor %}
+        {% else %}
+        <li class="sidebar__item"><a href="{{ category.href }}">{{  category.name }}</a></li>
+        {% endif %}
+
+    {% endfor %}
+
+</ul>
+
+{% endif %}

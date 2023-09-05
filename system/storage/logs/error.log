@@ -1,0 +1,43 @@
+2023-08-30 8:12:59 - PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:12:59 - PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:12:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:12:59 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:12:59 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:12:59 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:13:57 - PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:13:57 - PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:13:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:13:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:13:57 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:13:57 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:14:26 - PHP Warning:  mysqli::__construct(): The server requested authentication method unknown to the client [caching_sha2_password] in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:14:26 - PHP Warning:  mysqli::__construct(): (HY000/2054): The server requested authentication method unknown to the client in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:14:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:14:26 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:14:26 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:14:26 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:23 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin_tz'@'localhost' (using password: YES) in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:21:23 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:23 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:23 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:23 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:27 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin_tz'@'localhost' (using password: YES) in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:21:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:27 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:27 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:27 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:31 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'admin_tz'@'localhost' (using password: YES) in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:21:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:31 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:21:31 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:21:31 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:22:21 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart_tz' in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:22:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:22:21 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:22:21 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:22:21 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:22:37 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'opencart_tz' in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 7
+2023-08-30 8:22:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:22:37 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in C:\OSPanel\domains\opencarttz\system\library\db\mysqli.php on line 10
+2023-08-30 8:22:37 - PHP Notice:  Undefined variable: mysql in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
+2023-08-30 8:22:37 - PHP Notice:  Trying to get property 'connect_error' of non-object in C:\OSPanel\domains\opencarttz\install\controller\install\step_3.php on line 280
